@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# Weather Report App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a weather forecast app built with React, Redux, Axios, GoogleMap API and some other JS libraries. 
+Users may search city`s weather by typing in the name of the city, then a map of that city and next-5-days data of temprature/ pressure/humidity of that city will show up. 
 
-### Getting Started
+### Screenshot of the app: 
+ 
+![alt text][logo]
 
-There are two methods for getting started with this repo.
+[logo]: https://github.com/jessieyang0320/weather-report-react-redux/blob/master/screenshot/screenshot.png
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Try out the app:
+download or clone this repo, and:
 
 ```
 > npm install
 > npm start
 ```
+
